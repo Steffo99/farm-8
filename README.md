@@ -10,7 +10,7 @@ Farming microgame
 
 ## Links
 
-[![Restricted on Itch.io](https://img.shields.io/badge/itch.io-restricted-%23A287C0)](https://steffo.itch.io/cinnos)
+[![Restricted on Itch.io](https://img.shields.io/badge/itch.io-restricted-%23A287C0)](https://steffo.itch.io/farm8)
 
 ## History
 
